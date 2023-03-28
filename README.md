@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Math Magicians README Template</b></h3>
 
 </div>
 
@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[your_project__name]** is a web-app where you can perform basic calculations and can read quote about maths.
 
 ## 🛠 Built With <a name="built-with"></a>
 
