@@ -59,8 +59,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Math Magicians] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Math Magicians]** is a web-app where you can perform basic calculations and can read quote about maths.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -147,8 +145,6 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@DilsherB](https://github.com/DilsherB)
@@ -160,8 +156,6 @@ You can deploy this project using:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[perform basic calculations]**
 - [ ] **[you can read math related quotes]**
