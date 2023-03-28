@@ -24,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="#" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Math Magicians] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Math Magicians]** is a simple calculation web-app but here you can also read some quotes about maths.
 
 ## 🛠 Built With <a name="built-with"></a>
 
