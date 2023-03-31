@@ -24,9 +24,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="#" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Math Magicians README Template</b></h3>
 
 </div>

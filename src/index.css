@@ -1,27 +1,53 @@
-body {
-  margin: 0;
-  font-family:
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    'Roboto',
-    'Oxygen',
-    'Ubuntu',
-    'Cantarell',
-    'Fira Sans',
-    'Droid Sans',
-    'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root {
+  --display: #888494;
+  --main: #e8e4e4;
+  --right: #f8943c;
 }
 
-code {
-  font-family:
-    source-code-pro,
-    Menlo,
-    Monaco,
-    Consolas,
-    'Courier New',
-    monospace;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  min-height: 10vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculator {
+  max-width: 400px;
+  margin: auto;
+}
+
+.display {
+  width: 100%;
+  background-color: var(--display);
+  height: 40px;
+  line-height: 40px;
+  text-align: right;
+  color: white;
+  font-size: x-large;
+  vertical-align: middle;
+  padding: 0 10px;
+}
+
+button {
+  background-color: var(--main);
+  width: 100px;
+  height: 50px;
+}
+
+button[id="0"] {
+  width: 200px;
+}
+
+button[id="/"],
+button[id="x"],
+button[id="-"],
+button[id="+"],
+button[id="="] {
+  background-color: var(--right);
 }
