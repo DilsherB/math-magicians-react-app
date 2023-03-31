@@ -44,10 +44,14 @@ button[id="0"] {
   width: 200px;
 }
 
-button[id="/"],
+button[id="÷"],
 button[id="x"],
 button[id="-"],
 button[id="+"],
 button[id="="] {
   background-color: var(--right);
+}
+
+button:hover {
+  opacity: 0.7;
 }
