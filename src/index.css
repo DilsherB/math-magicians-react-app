@@ -10,6 +10,12 @@
   box-sizing: border-box;
 }
 
+body {
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
 .App {
   display: flex;
   min-height: 10vh;
@@ -20,6 +26,7 @@
 .calculator {
   max-width: 400px;
   margin: auto;
+  margin-bottom: 30px;
 }
 
 .display {
