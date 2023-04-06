@@ -1,2 +1,2 @@
-const apiKey = "eqaKx38o0Fg1f/rZqOA/sg==epV9zWMwWAegkqnF";
+const apiKey = process.env.REACT_APP_KEY;
 export default apiKey;
